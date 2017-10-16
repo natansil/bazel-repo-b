@@ -7,7 +7,7 @@ http_archive(
              strip_prefix= "rules_scala-%s" % rules_scala_version
              )
 
-repo_a_version="a6fa00116b9d139982e7b3128d1b311545055c5c"
+repo_a_version="2eb11917673fba44eaf9c9634659ec21230f9c9f"
 
 http_archive(
              name = "repo_a",
